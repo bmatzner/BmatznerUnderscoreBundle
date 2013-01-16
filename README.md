@@ -3,6 +3,7 @@
 ## Current Version
 
 Underscore.js v1.4.3
+Also includes AMD-enabled fork
 
 ## Installation
 
@@ -69,4 +70,5 @@ Refer to the source code of the included files for license information
 ## References
 
 1. http://documentcloud.github.com/underscore/
-2. http://symfony.com/
+2. https://github.com/amdjs/underscore
+3. http://symfony.com/
