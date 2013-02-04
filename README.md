@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Underscore.js v1.4.3
+Underscore.js v1.4.4
 Also includes AMD-enabled fork
 
 ## Installation
