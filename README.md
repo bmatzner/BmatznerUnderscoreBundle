@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Underscore.js v1.4.4
+Underscore.js v1.5.2
 
 ## Installation
 
