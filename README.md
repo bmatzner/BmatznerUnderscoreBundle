@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Underscore.js v1.5.2
+Underscore.js v1.6.0
 
 ## Installation
 
@@ -14,7 +14,7 @@ Underscore.js v1.5.2
 {
     "require": {
 		// ...
-        "bmatzner/underscore-bundle": "*"
+        "bmatzner/underscore-bundle": "~1.6"
     }
 }
 ```
