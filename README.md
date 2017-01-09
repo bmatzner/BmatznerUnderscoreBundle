@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Underscore.js v1.6.0
+Underscore.js v1.8.3
 
 ## Installation
 
@@ -14,7 +14,7 @@ Underscore.js v1.6.0
 {
     "require": {
 		// ...
-        "bmatzner/underscore-bundle": "~1.6"
+        "bmatzner/underscore-bundle": "~1.8"
     }
 }
 ```
@@ -68,5 +68,5 @@ Refer to the source code of the included files for license information
 
 ## References
 
-1. http://documentcloud.github.com/underscore/
+1. http://underscorejs.org/
 2. http://symfony.com/

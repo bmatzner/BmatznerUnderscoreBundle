@@ -3,7 +3,7 @@
     "type":        "symfony-bundle",
     "description": "Underscore.js Bundle for Symfony2",
     "keywords":    ["underscore", "javascript", "symfony"],
-    "homepage":    "http://documentcloud.github.com/underscore/",
+    "homepage":    "http://underscorejs.org/",
     "license":     "MIT",
     "authors":     [
         {
